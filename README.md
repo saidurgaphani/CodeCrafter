@@ -1,2 +1,2 @@
 # CodeCrafter
-A simple HTML, CSS, JS code editor
+CodeCrafter — your simple playground to code and test instantly.
